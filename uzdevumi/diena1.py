@@ -1,2 +1,1 @@
 print("Strādāju no apakšmapes")
-
