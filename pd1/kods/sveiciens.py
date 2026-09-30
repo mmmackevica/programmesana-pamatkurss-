@@ -1,0 +1,1 @@
+print ('Marta Marija Mackevica programmesana pamatkurss')
